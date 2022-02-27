@@ -1,0 +1,70 @@
+%% Creator: Inkscape inkscape 0.92.1, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'lens-reimage-focus.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{595.27559055bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.41428571)%
+    \put(0.35771694,0.32988696){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.11878644\unitlength}\raggedright  \end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{lens-reimage-focus.pdf}}%
+    \put(0.00941384,0.36599369){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.16063623\unitlength}\raggedright a) Spherical Wave: Reimaging\end{minipage}}}%
+    \put(0.01164828,0.01965655){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{c) Plane wave: focusing}}}%
+    \put(0.16649111,0.36953773){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.20964889\unitlength}\raggedright $\dfrac{1}{z_0}+\dfrac{1}{z_1}=\dfrac{1}{f}$\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{lens-reimage-focus.pdf}}%
+    \put(0.70505179,0.25914783){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{z}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{lens-reimage-focus.pdf}}%
+    \put(0.45035502,0.36858087){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.18327055\unitlength}\raggedright b) Gaussian Beam: Sperical Wave Limit\end{minipage}}}%
+    \put(0.44310674,0.03906906){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.18530689\unitlength}\raggedright ) Gaussian Beam: Plane Wave Limit\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{lens-reimage-focus.pdf}}%
+    \put(0.70505179,0.12950089){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{z}}}%
+    \put(0.00067878,0.06448418){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.61836833\unitlength}\raggedright $-z_0$   \quad   $z=0$   \qquad \quad $z=z_1$ \enspace $z=f$\end{minipage}}}%
+    \put(0.36840097,0.06947681){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.37424713\unitlength}\raggedright $-z_0$   \quad   $z=0$   \qquad \quad $z=z_1$ \enspace $z=f$\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{lens-reimage-focus.pdf}}%
+    \put(0.26542328,0.18862812){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{ }}}%
+    \put(0.2392179,0.24955213){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.12383219\unitlength}\raggedright Iris to filter out unwanted k vectprs\end{minipage}}}%
+  \end{picture}%
+\endgroup%
