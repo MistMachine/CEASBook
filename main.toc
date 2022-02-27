@@ -1,0 +1,101 @@
+\contentsline {chapter}{Preface}{vii}{chapter*.2}
+\contentsline {chapter}{\numberline {1}Introduction to Laser Spectroscopy}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Spectroscopy Intro}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Introduction to Lasers and Optics}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Programming}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Basic Direct Absorption Spectrosopy Setup}{6}{section.1.4}
+\contentsline {section}{\numberline {1.5}Advance Techniques}{6}{section.1.5}
+\contentsline {chapter}{\numberline {2}Fundamentals of Spectroscopy}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Infrared and Microwave Spectroscopy}{13}{section.2.1}
+\contentsline {section}{\numberline {2.2}Rovibrational Spectrocopy}{14}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Rotational Spectroscopy}{15}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Center of Mass Frame}{16}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Angular Momentum and Velocity}{17}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Inertia Tensor}{19}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Rotational Energy}{25}{subsection.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.5.1}Eigen Values and Ladder Operations}{27}{subsubsection.2.2.5.1}
+\contentsline {subsection}{\numberline {2.2.6}Angular Momentum Quantum Numbers}{27}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}Peterbation Theory}{28}{subsection.2.2.7}
+\contentsline {subsection}{\numberline {2.2.8}Selection Rules}{30}{subsection.2.2.8}
+\contentsline {subsection}{\numberline {2.2.9}Group Representation}{30}{subsection.2.2.9}
+\contentsline {subsection}{\numberline {2.2.10}Rotational Transitions}{30}{subsection.2.2.10}
+\contentsline {subsection}{\numberline {2.2.11}Statistical Distribution}{30}{subsection.2.2.11}
+\contentsline {subsection}{\numberline {2.2.12}Molecular Spinning Tops}{30}{subsection.2.2.12}
+\contentsline {chapter}{\numberline {3}Optics}{31}{chapter.3}
+\contentsline {section}{\numberline {3.1}Gaussian Beam}{31}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Gaussian Modes and Guoy Phase}{31}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Polarization}{32}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}The K vector}{32}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Complex Electric Field and Intensity}{32}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Divergence and Spread}{33}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.6}Wavefront and Curvature}{34}{subsection.3.1.6}
+\contentsline {section}{\numberline {3.2}Thin Lens and Spherical Mirrors}{34}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Double Lens System}{36}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}Optical Cavity and Resonance Properties}{36}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Input Beam and Cavity Coupling}{36}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.4}Cavity Alignment}{37}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Resonance Stability}{37}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Beam Displacement and Mode Matching}{37}{subsection.3.4.2}
+\contentsline {chapter}{\numberline {4}Laser Absorption Spectroscopy}{43}{chapter.4}
+\contentsline {section}{\numberline {4.1}Direct Absorption Spectroscopy}{43}{section.4.1}
+\contentsline {section}{\numberline {4.2}Cavity Enhanced Absorption Spectroscopy}{43}{section.4.2}
+\contentsline {section}{\numberline {4.3}Frequency Modulation Spectroscopy}{44}{section.4.3}
+\contentsline {section}{\numberline {4.4}NICE-OHMS}{46}{section.4.4}
+\contentsline {chapter}{\numberline {5}Absorption and Dispersion}{49}{chapter.5}
+\contentsline {section}{\numberline {5.1}Factors in Intensity}{50}{section.5.1}
+\contentsline {section}{\numberline {5.2}Factors in Resolution}{51}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Coherent Excitation}{51}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Lifetime}{51}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Distributions}{51}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Natural Linewidth}{51}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Doppler Broadening}{52}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}Pressure Broadening}{53}{subsection.5.2.6}
+\contentsline {subsection}{\numberline {5.2.7}Transit-Team Broadening}{53}{subsection.5.2.7}
+\contentsline {subsection}{\numberline {5.2.8}Saturation and Power Broadening}{53}{subsection.5.2.8}
+\contentsline {chapter}{\numberline {6}Frequency Comb}{55}{chapter.6}
+\contentsline {chapter}{\numberline {7}Theoretical Techniques}{59}{chapter.7}
+\contentsline {section}{\numberline {7.1}Vectors and Dual Vectors}{59}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Vector Notation}{59}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Dual Vectors}{59}{subsection.7.1.2}
+\contentsline {section}{\numberline {7.2}Coordinate System}{59}{section.7.2}
+\contentsline {section}{\numberline {7.3}Einstein Notation}{59}{section.7.3}
+\contentsline {section}{\numberline {7.4}Probability in Quantum Mech.}{60}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Expectation Value}{60}{subsection.7.4.1}
+\contentsline {section}{\numberline {7.5}Solution Space}{61}{section.7.5}
+\contentsline {section}{\numberline {7.6}Tensors Products}{61}{section.7.6}
+\contentsline {section}{\numberline {7.7}Expectation Value and Variance}{64}{section.7.7}
+\contentsline {section}{\numberline {7.8}Distributions}{66}{section.7.8}
+\contentsline {subsection}{\numberline {7.8.1}Boltzmann Distribution}{67}{subsection.7.8.1}
+\contentsline {subsection}{\numberline {7.8.2}Gaussian Distribution}{67}{subsection.7.8.2}
+\contentsline {subsection}{\numberline {7.8.3}Lorentian Distribution}{67}{subsection.7.8.3}
+\contentsline {subsection}{\numberline {7.8.4}Delta "Distribution"}{68}{subsection.7.8.4}
+\contentsline {subsection}{\numberline {7.8.5}Exponential Distribution}{68}{subsection.7.8.5}
+\contentsline {subsection}{\numberline {7.8.6}Binomial Distribution}{68}{subsection.7.8.6}
+\contentsline {subsection}{\numberline {7.8.7}Poisson Distribution}{68}{subsection.7.8.7}
+\contentsline {subsection}{\numberline {7.8.8}Geometric Distribution}{68}{subsection.7.8.8}
+\contentsline {section}{\numberline {7.9}Probabilistic Convolutions}{68}{section.7.9}
+\contentsline {section}{\numberline {7.10}Fourier Analysis}{70}{section.7.10}
+\contentsline {subsection}{\numberline {7.10.1}Fourier Space}{71}{subsection.7.10.1}
+\contentsline {section}{\numberline {7.11}Group velocity, Beat frequency and other related phase stuff}{72}{section.7.11}
+\contentsline {section}{\numberline {7.12}Permutation}{72}{section.7.12}
+\contentsline {chapter}{\numberline {8}Experimental Techniques}{75}{chapter.8}
+\contentsline {section}{\numberline {8.1}Modulation and Heterodyne Principle}{75}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Modulation}{75}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Demodulation by Heterodyne Principle}{76}{subsection.8.1.2}
+\contentsline {section}{\numberline {8.2}Feed Back Control Theory}{77}{section.8.2}
+\contentsline {section}{\numberline {8.3}Pound Drever Hall Locking Technique}{77}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}PI controller}{79}{subsection.8.3.1}
+\contentsline {section}{\numberline {8.4}Lock in Amplification}{79}{section.8.4}
+\contentsline {chapter}{\numberline {9}Experimental Setup}{81}{chapter.9}
+\contentsline {section}{\numberline {9.1}Optical Setup}{81}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Laser Power}{83}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Cavity Setup}{83}{subsection.9.1.2}
+\contentsline {section}{\numberline {9.2}Programs Used}{83}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Labview}{83}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}Bristol Wavemeter}{85}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.3}IGOR: Data Processing}{85}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.4}Python}{85}{subsection.9.2.4}
+\contentsline {chapter}{\numberline {10}Laser Alignment Tutorial}{87}{chapter.10}
+\contentsline {section}{\numberline {10.1}Aligning the IR Cavity}{87}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Alignment of 1m Vacuumed Chamber Cavity}{89}{subsection.10.1.1}
+\contentsline {subsection}{\numberline {10.1.2}Mode Labelling}{89}{subsection.10.1.2}
